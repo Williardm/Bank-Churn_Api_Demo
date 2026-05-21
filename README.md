@@ -75,3 +75,8 @@ npm run dev
 ```
 
 Open http://localhost:5173 — fill in the customer form and click **Predict Churn**.
+
+
+## Step 4 — Start the React frontend
+
+``` A live dashboard for the product can be found at  https://customer-churn-dashboard.netlify.app/     ```
